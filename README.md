@@ -1,5 +1,5 @@
 ## "Hacking USB/IOT Devices With Python"
-- Taller: Hacking USB/IOT Devices With Python c1b3rtr4cks 2024
+- Charla: Hacking USB/IOT Devices With Python c1b3rtr4cks 2024
 - https://www.c1b3rtr4cks.es
 
 <pre>
